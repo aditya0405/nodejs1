@@ -1,0 +1,15 @@
+{
+  "name": "webserver_aher",
+  "version": "1.0.0",
+  "description": "Belajar membuat server web dengan nodejs dan express",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "aher",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
